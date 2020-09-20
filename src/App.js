@@ -12,6 +12,7 @@ import {
 import Map from './Map';
 import Table from './Table';
 import { sortData } from './util';
+import LineGraph from './LineGraph';
 
 const GET_COUNTRIES_API = "https://disease.sh/v3/covid-19/countries";
 const GET_ALL_API = "https://disease.sh/v3/covid-19/all";
@@ -99,6 +100,7 @@ function App() {
           <h3>Cases by country</h3>
           <Table countries={tableData}></Table>
           <h4>Graphs</h4>
+          <LineGraph/>
         </CardContent>
       </Card>
 
