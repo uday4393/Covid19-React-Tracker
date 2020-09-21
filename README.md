@@ -1,3 +1,20 @@
+## COVID 19 Tracker - Made with React
+
+This project uses react hooks, data pulled from [disease.sh](https://disease.sh) to display data for all countires.
+
+### Click here to view demo [View Demo](https://covid19-react-tracker-78175.web.app/)
+
+### DEMO Capture
+<img src="screenshorts/covid.gif">
+
+### Checkout some screenshots below
+<img src="screenshorts/covid1.png">
+<img src="screenshorts/covid2.png">
+<img src="screenshorts/covid3.png">
+
+### Click here to view demo [View Demo](https://covid19-react-tracker-78175.web.app/)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
